@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "shah-photographer",
+  "private_key_id": "b82e3797d52ef0a04c066ae8cc1a1c0f61b34574",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpiYYBgTWrvJyw\n6oHgkoQR9EC7NojS2zgKJPBeC0ByEUMsc4j+5v6g8zGukIH60V7oPB2pAkvDD6fR\ncm5cu0ucEs0EASxAjFmxj+D2xedD/1Mx7YwapWxyQaLDxPk4IbmG6vwfEDhsbUg4\noNaiw+ML1/IWnBXTwuabHiayJprLMqFdTv+pBgJPHrkgZutbz56YURDfPYv95GkR\n6y6OCn+aNRRrVcIAOPr7xf/yoQXTuktTnxTIhy9jBcsmqNE8mFt2gmlPTtAN4/Hj\nYxP/2YfFjGrfnA/KesRUePMCVSYcyvXTESlEd9YkHhhsiW6DA+KJPB/0ca/2ctMr\nUDJ2hnvLAgMBAAECggEAPclhfbXl5gdwwadNmxc6q8JtPu2CkvoS49uPgG6wV4IE\nDbSzllaAMQ9AqYJ/5HWelZunIZu1GctgWVxPbVtTFHfjoNR+mK2t2KD7l2QLw0PP\nwa/1shZcvg0+sQNd4n+j+lA0f2utbJKtUfoIDzy9x+i1EVlkOQ9cdObZqm6YVnou\ntngJ0K24rq0cMQ5O/p8o+fl2vT1DMnwqNxAC9eLVd+Z2kyqsRRlBmvwFuyVx8PiS\nuau3ZMXpZvEzq/WFhMxUJqELczDTI5LrC3hLwdfa+GpEE+Ck8MRn21wPzae2cAQa\nqxNWPTeJcl5Br3fwl+70H3cMwSkPTvqsCTqnIVz+zQKBgQDbjWpkl4nPIIvpTPqy\neHPFS4Ayy+fT473mZ8k9gNqjJ8r2UOjmlLob1XPvKhfqKrRLlTdiUbPc10HerYQy\ns+D56vGXZqgRl3gYRS5hBe5YTAD57a4KXDYzuPVWC83qh8JBTUiCln5Dr+2kLncw\nNCh+6Bgmr8uSM6YB02lozXWlFQKBgQDFro0asYpVW7BWLsTd8G2TZOqgYmy+HMiC\nXK4amLbF9SEw3paDpo7na+3J5tmqW8me+hA/ChoGA40lmuioAWvotqVGXunebOyf\niXkd22yP40ySyU+C0FHsgL2lNVel6Pv27PJmkVwMsk4A8v/Sy23oMvBiaXO1axqD\noFw2h+WVXwKBgEg5ShGTRDNN+pihySqiszro7mBHcZjjp1m/NJU16TaY5YyH60XH\nET4MxtmbWEihCbR/fruqMufoK/QL0pw3TkAIiLcMfydiU5BwWaRzJggH4J5XENS5\npt727kYDFhcb18xRlxPWW+z6V8uVuYGy9stgoGlBlU8gDHE3Ucq3JAdNAoGAHyr3\nSnclpXGwatYy6f9Hd47Yw3LhTFRDdPJh7QWZA7szgX4G4zj2nRxSQJwqQ4b3Uh6B\nQz83fS1AKuayuhKHTgjGJENAwnYQFNNbCk8XXdRrtVUSOUDZOd3OiObRK/KBD5yq\nV2uhxMq0K8gkd7rlWE/3wLx5puf9JTW6dEqW8ycCgYEAtIK0mk9Urp0cfPu7EqyG\nbCZ3BHWJ0i0RfHjIXlXBOUmdyXdsaxvmFkYaFBf+TioVF1L3M5fth5vmB5lRhmCW\nRb8JTBe/44Ix/UrRZS3nkuRM+ggUThYP3Yo7/Ct1WYK1afuW6jG9YMsgekrs/vdH\ndmUv+OPmuusDt6mEWFFb0aQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucket-service@shah-photographer.iam.gserviceaccount.com",
+  "client_id": "111359752704013651135",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucket-service%40shah-photographer.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

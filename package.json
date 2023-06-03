@@ -1,0 +1,36 @@
+{
+  "name": "Ecommerce-app-2023",
+  "version": "1.0.0",
+  "description": "ecommerce rest api",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix ./client",
+    "dev": "concurrently \"npm run start\" \"npm run client\""
+  },
+  "keywords": [],
+  "author": "Techinfoyt",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/storage": "^6.10.1",
+    "bcrypt": "^5.1.0",
+    "braintree": "^3.13.0",
+    "cloudinary": "^1.35.0",
+    "colors": "^1.4.0",
+    "concurrently": "^7.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-formidable": "^1.2.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.4",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "react-icons": "^4.7.1",
+    "react-simple-typewriter": "^5.0.1",
+    "slugify": "^1.6.5"
+  }
+}
