@@ -1,29 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.44a7fa62.css",
-    "main.js": "/static/js/main.fde555ee.js",
-    "static/media/wed1.png": "/static/media/wed1.dcecff82386b334e764a.png",
-    "static/media/nav1.png": "/static/media/nav1.9671c08f3a6a7b3780ba.png",
-    "static/media/bbswr.jpg": "/static/media/bbswr.b4d8fb3a95d2a793cdf1.jpg",
-    "static/media/pre-wed1.jpg": "/static/media/pre-wed1.cce91da87bcf290872f8.jpg",
+    "main.js": "/static/js/main.51f79bb5.js",
     "static/media/header-banner.jpg": "/static/media/header-banner.7a87e8959ac83a97679a.jpg",
     "static/media/insta-pic.jpg": "/static/media/insta-pic.3d84b90aca194ff43ce6.jpg",
-    "static/media/port-22.jpg": "/static/media/port-22.e11f00b93e9ae6525949.jpg",
-    "static/media/port-66.jpg": "/static/media/port-66.748f6bb9073f9e0b46fd.jpg",
-    "static/media/insta1.jpg": "/static/media/insta1.3b4d356acbad74350534.jpg",
     "static/media/work-pic.jpg": "/static/media/work-pic.c2d33fb33d6454ee4aca.jpg",
-    "static/media/sclwk.jpg": "/static/media/sclwk.8bbdbdf6d1a480be35d7.jpg",
-    "static/media/insta3.jpg": "/static/media/insta3.f79fcdbf160b37357b95.jpg",
-    "static/media/insta2.jpg": "/static/media/insta2.f2cb353a87857e42c886.jpg",
-    "static/media/Logo JPEG Final 2022.jpg": "/static/media/Logo JPEG Final 2022.0374a4c0f3df6933431e.jpg",
-    "static/media/insta4.jpg": "/static/media/insta4.3276d46d95421ce53caf.jpg",
-    "static/media/logo.png": "/static/media/logo.e89188d26631ad40e7c8.png",
     "index.html": "/index.html",
     "main.44a7fa62.css.map": "/static/css/main.44a7fa62.css.map",
-    "main.fde555ee.js.map": "/static/js/main.fde555ee.js.map"
+    "main.51f79bb5.js.map": "/static/js/main.51f79bb5.js.map"
   },
   "entrypoints": [
     "static/css/main.44a7fa62.css",
-    "static/js/main.fde555ee.js"
+    "static/js/main.51f79bb5.js"
   ]
 }
